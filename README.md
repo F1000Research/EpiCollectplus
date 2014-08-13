@@ -1,6 +1,6 @@
 #License
 
-EpiCollect+ is licenced under a [AGPLv3 Licence](http://opensource.org/licenses/AGPL-3.0). If you want to use a custom version of the server code, please fork this repository and upload your changes to GitHub to help the EpiCollect Community.
+EpiCollect+ is licenced under a [AGPLv3 Licence](http://opensource.org/licenses/AGPL-3.0). Please be aware that this code is not being actively developed, as it is an archive of the code as it was at the time of publication in the associated F1000Research article (http://dx.doi.org/10.5281/zenodo.11278). For the latest version of this code, please see https://github.com/ImperialCollegeLondon/EpiCollectplus.
 
 # Acknowledgements
 EpiCollect+ uses [Glyphicons](http://glyphicons.com/), [jQuery](http://jquery.com), [jQuery UI](http://jqueryui.com) and [Raphael](http://raphaeljs.com/)
